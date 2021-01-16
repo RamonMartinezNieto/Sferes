@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 0c9bb60ae3eb9d64892cfbf720caa81a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8111154367280559036
+    second: PruebaTile_0
+  - first:
+      213: 8868407068706805575
+    second: PruebaTile_1
+  - first:
+      213: 2630820303230364122
+    second: PruebaTile_2
+  - first:
+      213: 5324725445050866765
+    second: PruebaTile_3
+  - first:
+      213: 710250488873554789
+    second: PruebaTile_4
+  - first:
+      213: 8808259775115140871
+    second: PruebaTile_5
+  - first:
+      213: 2583867347759223066
+    second: PruebaTile_6
+  - first:
+      213: -6372255886956396106
+    second: PruebaTile_7
+  - first:
+      213: -1314887728885951632
+    second: PruebaTile_8
+  - first:
+      213: 6491942398151120651
+    second: PruebaTile_0
+  - first:
+      213: 8379545899769811936
+    second: PruebaTile_1
+  - first:
+      213: 6870850873424459019
+    second: PruebaTile_2
+  - first:
+      213: 7117511222698028066
+    second: PruebaTile_3
+  - first:
+      213: 3832817682099069074
+    second: PruebaTile_4
+  - first:
+      213: -7276650306710549620
+    second: PruebaTile_5
+  - first:
+      213: 5852774322636484661
+    second: PruebaTile_6
+  - first:
+      213: 2676704386730539729
+    second: PruebaTile_7
+  - first:
+      213: 2316803068243820328
+    second: PruebaTile_8
+  - first:
+      213: 1948625289040818984
+    second: PruebaTile_9
+  - first:
+      213: 5997594593751017727
+    second: PruebaTile_10
+  - first:
+      213: 4779502147994758442
+    second: PruebaTile_11
+  - first:
+      213: 2247769700503448116
+    second: PruebaTile_12
+  - first:
+      213: -1058950615940936153
+    second: PruebaTile_13
+  - first:
+      213: 6993037642347906835
+    second: PruebaTile_14
+  - first:
+      213: -2787548064560735591
+    second: PruebaTile_15
+  - first:
+      213: 8522835904064113061
+    second: PruebaTile_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PruebaTile_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0758102733081a50800000000000000
+      internalID: 6491942398151120651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e35cde59902a4470800000000000000
+      internalID: 8379545899769811936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05b52f477a2a5f50800000000000000
+      internalID: 6870850873424459019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 920
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca5c13fba76c260800000000000000
+      internalID: 7117511222698028066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 920
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290e95eef57e03530800000000000000
+      internalID: 3832817682099069074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 760
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bc7c17915240b90800000000000000
+      internalID: -7276650306710549620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 760
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5307643bc3b393150800000000000000
+      internalID: 5852774322636484661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 760
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dabdcb3570952520800000000000000
+      internalID: 2676704386730539729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 761
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f35399d10f62020800000000000000
+      internalID: 2316803068243820328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_9
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 761
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823fe994068ea0b10800000000000000
+      internalID: 1948625289040818984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 600
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82553a18cbb3350800000000000000
+      internalID: 5997594593751017727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 600
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2da17671e3345240800000000000000
+      internalID: 4779502147994758442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 600
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ae46722aea13f10800000000000000
+      internalID: 2247769700503448116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 600
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ec82e760add41f0800000000000000
+      internalID: -1058950615940936153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317051d5fa24c0160800000000000000
+      internalID: 6993037642347906835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a9789edc3a059d0800000000000000
+      internalID: -2787548064560735591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PruebaTile_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 441
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9cfac4912374670800000000000000
+      internalID: 8522835904064113061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

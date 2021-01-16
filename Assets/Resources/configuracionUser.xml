@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <player nombre="default">
+    <Menu>
+      <music>off</music>
+      <!-- String on/off -->
+      <volumen>0,2292857</volumen>
+      <!-- 0 to 1  float  number-->
+      <musicInGame>off</musicInGame>
+      <volumenInGame>0,3592857</volumenInGame>
+    </Menu>
+    <Run>
+      <points>0</points>
+      <!-- Integer value -->
+      <time>00:00</time>
+      <!-- String value -->
+    </Run>
+    <MaxScores>
+      <lvl number="1">
+        <time>00:03</time>
+        <points>0</points>
+      </lvl>
+      <!-- Ampliable, no usados -->
+      <lvl number="2">
+        <time>00:31</time>
+        <points>5</points>
+      </lvl>
+      <lvl number="3">
+        <time>00:00</time>
+        <points>0</points>
+      </lvl>
+    </MaxScores>
+  </player>
+</configuration>
